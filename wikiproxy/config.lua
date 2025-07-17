@@ -24,6 +24,7 @@ local _M = {
                 -- [1] wikipedia's domain name
                 -- [2] mapped path prefix (NOTE: only start with '/')
                 { "en.m.wikipedia.org",     "/.wp-m" },
+                { "wikimedia.org",          "/.wp-wm" },
                 { "www.wikimedia.org",      "/.wp-wm-www" },
                 { "upload.wikimedia.org",   "/.wp-wm-upload" },
             },
@@ -34,6 +35,7 @@ local _M = {
             domain = "zh.wikipedia.org",
             maps = {
                 { "zh.m.wikipedia.org",     "/.wp-m" },
+                { "wikimedia.org",          "/.wp-wm" },
                 { "www.wikimedia.org",      "/.wp-wm-www" },
                 { "upload.wikimedia.org",   "/.wp-wm-upload" },
             },
