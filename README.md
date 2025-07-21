@@ -3,6 +3,11 @@ Wikipedia Proxy
 
 A standalone configuration bundle for OpenResty to set up a Wikipedia proxy.
 
+TODO
+----
+- Improve headers handling, especially `Set-Cookie`, `Referer`, `Origin`
+- Better ACME integration
+
 Usage
 -----
 OS: Debian Linux (bookworm/12)
