@@ -1,7 +1,7 @@
 Wikipedia Proxy
 ===============
 
-A configuration bundle for OpenResty to setup a Wikipedia proxy.
+A standalone configuration bundle for OpenResty to set up a Wikipedia proxy.
 
 Usage
 -----
