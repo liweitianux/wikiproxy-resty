@@ -77,9 +77,6 @@ end
 
 ------------------------------------------------------------------------
 
-local function get_scheme_port()
-end
-
 -- Map the multiple domains used by Wikipedia to a unique path prefix.
 local function map_urls(text, wiki, ctx)
     if text == nil or text == "" then
