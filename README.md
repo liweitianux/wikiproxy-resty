@@ -3,6 +3,11 @@ Wikipedia Proxy
 
 A standalone configuration bundle for OpenResty to set up a Wikipedia proxy.
 
+**WARNING**:
+This project has been superceded by
+[wikiproxy](https://github.com/liweitianux/wikiproxy),
+a simpler and better implementation in Go.
+
 TODO
 ----
 - Improve headers handling, especially `Set-Cookie`, `Referer`, `Origin`
